@@ -6,7 +6,7 @@ const Home: NextPage = () => {
   return (
     <div>
       <MetaTags title="Home" />
-      <>Hello</>
+      <div className="text-blue-600/100 underline">Heelo</div>
     </div>
   );
 };
