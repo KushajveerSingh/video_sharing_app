@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-oauth/google": "^0.2.8",
     "@sanity/client": "^3.4.1",
     "axios": "^0.27.2",
     "next": "13.0.0",
